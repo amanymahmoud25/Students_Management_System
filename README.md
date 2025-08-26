@@ -24,7 +24,7 @@ This project allows users to add, update, search, delete, and view student recor
 ## 📂 Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/Students_Management_System.git
+   git clone https://github.com/amanymahmoud25/Students_Management_System.git
    cd Students_Management_System
    ```
 2. Open the project in **Visual Studio** or any C# IDE.
